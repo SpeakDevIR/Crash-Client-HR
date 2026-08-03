@@ -3,6 +3,4 @@
 ---
 از نسخه 1.18 تا نسخه 1.21.3 ساپورت شده
 ---
-برای دانلود روی لینک وارد سایت زیر شوید
----
-https://speakdevir.github.io/Crash-Client-HR/
+جهت دانلود [کلیک](https://speakdevir.github.io/Crash-Client-HR/) کنید
